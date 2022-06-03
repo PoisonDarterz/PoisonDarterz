@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PoisonDarterz
 - 👀 I’m interested in Computer Science, specifically Software Engineering
-- 🌱 I’m currently learning Java (mainly)
+- 🌱 I’m currently learning Java and C++ 
 - 📫 How to reach me : Facebook/IG (private) , reddit @PoisonDarterz , discord @PoisonDarterz#4060
 
 <!---
