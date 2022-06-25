@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Java, C++ and Python
 - 📫 How to reach me : Facebook/IG (private) , reddit @PoisonDarterz , discord @PoisonDarterz#4060
 
+<img src=microsoft-certified-azure-fundamentals.png></img>
+
 <!---
 PoisonDarterz/PoisonDarterz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
