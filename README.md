@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PoisonDarterz
 - 👀 I’m interested in Computer Science, specifically Software Engineering
 - 🌱 I’m currently learning Java, C++ and Python
-- 📫 How to reach me : Facebook/IG (private) , reddit @PoisonDarterz , discord @PoisonDarterz#4060
+- 📫 How to reach me : Facebook/IG (private) , reddit @PoisonDarterz , discord @PoisonDarterz#4060 , LinkedIn (Jonas Chuan)
 
 <img src=microsoft-certified-azure-fundamentals.png width="110" height="110"></img>
 <img src=microsoft-certified-azure-ai-fundamentals.png width="110" height="110"></img>
