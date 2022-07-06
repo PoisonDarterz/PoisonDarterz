@@ -4,6 +4,7 @@
 - 📫 How to reach me : Facebook/IG (private) , reddit @PoisonDarterz , discord @PoisonDarterz#4060
 
 <img src=microsoft-certified-azure-fundamentals.png></img>
+<img src=microsoft-certified-azure-ai-fundamentals.png></img>
 
 <!---
 ![PoisonDarterz's GitHub stats](https://github-readme-stats.vercel.app/api?username=PoisonDarterz&show_icons=true&theme=merko)
