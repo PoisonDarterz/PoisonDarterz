@@ -5,12 +5,7 @@
 
 <img src=microsoft-certified-azure-fundamentals.png width="110" height="110"></img>
 <img src=microsoft-certified-azure-ai-fundamentals.png width="110" height="110"></img>
-
-<!---
-![PoisonDarterz's GitHub stats](https://github-readme-stats.vercel.app/api?username=PoisonDarterz&show_icons=true&theme=merko)
-
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=PoisonDarterz&layout=compact&langs_count=100&theme=merko)
---->
+<img src=microsoft-certified-azure-data-fundamentals.png width="110" height="110"></img>
 
 <a href="https://github.com/PoisonDarterz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PoisonDarterz&show_icons=true&theme=radical" />
