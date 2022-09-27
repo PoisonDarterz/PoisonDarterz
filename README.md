@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @PoisonDarterz
 - 👀 Studying Information Systems in Universiti Malaya
-<!---
-- 🌱 I’m currently learning Java, C++ and C#
---->
+
 - 📫 How to reach me : Facebook/IG (private) , reddit @PoisonDarterz , discord @PoisonDarterz#4060 , LinkedIn (Jonas Chuan)
 <a href="https://www.credly.com/badges/c1ba6e56-5cff-4122-bcc1-677c90719ab2/public_url">
   <img src=microsoft-certified-azure-fundamentals.png width="110" height="110"></img>
@@ -24,4 +22,7 @@
 <!---
 PoisonDarterz/PoisonDarterz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+--->
+<!---
+- 🌱 I’m currently learning Java, C++ and C#
 --->
