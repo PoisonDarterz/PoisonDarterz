@@ -11,6 +11,9 @@
 <a href="https://www.credly.com/badges/28c4a970-2373-49b1-bea5-c174555183ec/public_url">
   <img src=microsoft-certified-azure-data-fundamentals.png width="110" height="110"></img>
 </a>
+<a href="https://www.credly.com/badges/28c4a970-2373-49b1-bea5-c174555183ec/public_url">
+  <img src=microsoft-365-certified-fundamentals.png width="110" height="110"></img>
+</a>
 <br>
 <a href="https://github.com/PoisonDarterz">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=PoisonDarterz&show_icons=true&theme=radical" />
