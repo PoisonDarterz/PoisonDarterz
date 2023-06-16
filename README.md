@@ -11,7 +11,7 @@
 <a href="https://www.credly.com/badges/28c4a970-2373-49b1-bea5-c174555183ec/public_url">
   <img src=microsoft-certified-azure-data-fundamentals.png width="110" height="110"></img>
 </a>
-<a href="https://www.credly.com/badges/28c4a970-2373-49b1-bea5-c174555183ec/public_url">
+<a href="https://www.credly.com/badges/6837b731-f6cc-4a37-87e9-1f6c590fffd8/public_url">
   <img src=microsoft-365-certified-fundamentals.png width="110" height="110"></img>
 </a>
 <br>
