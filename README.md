@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PoisonDarterz
-- 👀 Studying Information Systems in Universiti Malaya
+- 👀 Computer Science (Information Systems) graduate from Universiti Malaya
 
-- 📫 How to reach me : Facebook/IG (private) , reddit/discord @PoisonDarterz , LinkedIn (Jonas Chuan)
+- 📫 How to reach me : reddit/discord @PoisonDarterz , LinkedIn (Jonas Chuan)
 <a href="https://www.credly.com/badges/c1ba6e56-5cff-4122-bcc1-677c90719ab2/public_url">
   <img src=microsoft-certified-azure-fundamentals.png width="110" height="110"></img>
 </a>
