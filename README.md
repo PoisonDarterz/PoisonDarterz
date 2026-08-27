@@ -16,10 +16,10 @@
 </a>
 <br>
 <a href="https://github.com/PoisonDarterz">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=PoisonDarterz&show_icons=true&theme=radical" />
+  <img align="center" width="400" src="https://github-stats-extended.vercel.app/api?username=PoisonDarterz&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/PoisonDarterz">
-  <img align="center" width="291" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoisonDarterz&layout=compact&langs_count=100&theme=onedark" />
+  <img align="center" width="291" src="https://github-stats-extended.vercel.app/api/top-langs/?username=PoisonDarterz&layout=compact&langs_count=100&theme=onedark" />
 </a>
 
 <!---
